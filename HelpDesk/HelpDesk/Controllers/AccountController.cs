@@ -29,7 +29,7 @@ namespace HelpDesk.Controllers
                     }
                     else
                     {
-                        return RedirectToAction("Index", "User");
+                        return RedirectToAction("Index", "Request");
                     }
                 }
                 else
