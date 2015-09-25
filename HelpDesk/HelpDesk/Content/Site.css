@@ -83,7 +83,7 @@ textarea {
     text-align:center; 
     color:#fff; 
     border:1px solid #fff; 
-    background:silver; 
+    background:SteelBlue ; 
     line-height:30px; 
     font-size:13px; 
     overflow:hidden; 
@@ -106,7 +106,7 @@ textarea {
  
 .menu ul li:hover a {
     color:#fff; 
-    background:grey;
+    background:SlateGray;
 }
 .menu ul li:hover ul {
     display:block; 
@@ -116,11 +116,11 @@ textarea {
     width:105px;
 }
 .menu ul li:hover ul li a.hide {
-    background:#6a3; 
+    background:#5F9EA0; 
     color:#fff;
 }
 .menu ul li:hover ul li:hover a.hide {
-    background:grey; 
+    background:SlateGray; 
     color:#000;
 }
 .menu ul li:hover ul li ul {
@@ -132,7 +132,7 @@ textarea {
     color:#000;
 }
 .menu ul li:hover ul li a:hover {
-    background:grey; 
+    background:SlateGray; 
     color:#000;
 }
 .menu ul li:hover ul li:hover ul {

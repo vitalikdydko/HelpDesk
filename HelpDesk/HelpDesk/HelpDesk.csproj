@@ -252,8 +252,8 @@
     <Content Include="Views\Request\Create.cshtml" />
     <Content Include="Views\Request\Index.cshtml" />
     <Content Include="Views\Request\_Details.cshtml" />
-    <Content Include="Views\Request\Executor.cshtml" />
-    <Content Include="Views\Request\Lifecycle.cshtml" />
+    <Content Include="Views\Request\_Executor.cshtml" />
+    <Content Include="Views\Request\_Lifecycle.cshtml" />
     <Content Include="Views\Request\RequestList.cshtml" />
     <Content Include="Views\Request\Distribute.cshtml" />
     <Content Include="Views\Request\ChangeStatus.cshtml" />
